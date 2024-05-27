@@ -1,0 +1,120 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* Meu comentario css*/
+
+html,body{
+    height: 100%;
+}
+
+.primeiro{
+    width: 1365px;
+    max-height:69px;
+    background-color: rgb(110, 16, 181);
+    padding-bottom: 250px;
+    padding:9px 0;
+    font-family: tahoma;
+}
+
+a{
+    text-decoration: none;
+}
+
+.primeiro .logo{
+    text-decoration: none;
+    color: azure;
+    font-size: 23px;
+    margin-left: 25px;
+    margin-top: 350px;
+}
+
+
+.links{
+    text-align: center;
+}
+
+
+.links a{
+    color: azure;
+    font-size: 15px;
+    margin: 0 auto;
+    margin-left: 19px;
+    font-family: tahoma;
+    
+}
+
+.segundo{
+    width: 1365px;
+    background-color: rgb(62, 27, 128) ;
+    padding: 87px 0px;
+}
+
+.botoes{
+    text-align: right;
+    margin-right: 110px;
+
+}
+
+.botao1{
+    font-size: 15px;
+    color:rgb(110, 16, 181) ;
+    background: azure;
+}
+
+.botao2{
+    color: azure;
+    background:rgb(110, 16, 181);
+}
+
+h1{
+    color: azure;
+    margin-right: 20px;
+    text-align: center;
+    font-size: 26px;
+}
+
+.email{
+    color: rgba(113, 133, 131);
+    font-size: 22px;
+    margin-top: 75px;
+    margin-left: 350px;
+}
+
+.text{
+    background-color: rgb(191, 214, 212);
+    font-size: 17px;
+    padding: 15px 200px;
+    margin:20px 350px;
+
+}
+
+.senhah3{
+    color: rgba(113, 133, 131);
+    font-size: 22px;
+    margin-top: 1px;
+    margin-left: 350px;
+}
+
+.password{
+    background-color: rgb(191, 214, 212);
+    font-size: 17px;
+    padding: 15px 200px;
+    margin:20px 350px;
+}
+
+.logar{
+    font-size: 26px;
+    color: azure;
+    background-color: rgb(168, 50, 74);
+    margin-top: 5px;
+    margin-left: 365px;
+}
+
+.esqueci{
+    color: rgb(145, 138, 140);
+    text-decoration: underline;
+    margin-left: 365px;
+    font-size: 17px;
+}
